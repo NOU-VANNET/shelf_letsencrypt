@@ -10,7 +10,9 @@ dependencies:
   path: ^1.8.2
   shelf: ^1.4.0
   acme_client:
-    path: ../acme_client
+    git:
+      url: https://github.com/NOU-VANNET/acme_client.git
+      ref: main
   basic_utils: ^5.5.0
   coverage: ^1.6.3
   collection: ^1.16.0

@@ -12,7 +12,7 @@
         <entry key="acme_client">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../acme_client/lib" />
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/acme_client-3e5c53cea4ea46728db22869d5a1a708aa88eb41//lib" />
             </list>
           </value>
         </entry>
@@ -432,6 +432,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/acme_client-3e5c53cea4ea46728db22869d5a1a708aa88eb41//lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/dio-2dec6a2017c86b741012fa405faf73d9c1502d92//lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-58.0.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-5.10.0/lib" />
@@ -492,7 +493,6 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/webkit_inspection_protocol-1.2.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/x509-0.2.3/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.1/lib" />
-      <root url="file://$PROJECT_DIR$/../acme_client/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
